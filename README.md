@@ -8,22 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=7C6DFF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Aspiring+Software+Engineer;Flutter+%26+Web+Developer;Data+Science+Associate" alt="Typing introduction" />
 
-<br/>
-
-<a href="mailto:kenjeternal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-6D5DFB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/k3n988">
-  <img src="https://img.shields.io/badge/GitHub-k3n988-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=k3n988&label=Profile%20Views&color=6d5dfb&style=flat-square" />
-
 </div>
 
 ---
@@ -238,45 +222,9 @@ Explore my other academic, mobile, web, and software-development projects.
 </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=k3n988&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=60A5FA&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3n988&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-
 <br/>
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k3n988&theme=tokyonight" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
-
-I am open to internships, collaborations, software-development opportunities, and meaningful technology projects.
-
-<br/><br/>
-
-<a href="mailto:kenjeternal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kenjeternal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/k3n988">
-  <img src="https://img.shields.io/badge/GitHub-k3n988-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/khenje-ternal-1b99ba301>
-  <img src="https://img.shields.io/badge/LinkedIn-Khenje%20Ternal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
 
 > Turning ideas into useful, meaningful, and impactful digital experiences.
 
